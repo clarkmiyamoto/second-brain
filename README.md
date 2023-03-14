@@ -1,2 +1,2 @@
 # second-brain
-My learning is open-sourced
+Here's my little brain vault. I use [Obsidian](https://obsidian.md/) as my word-processor.
